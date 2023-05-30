@@ -1,5 +1,6 @@
 flows:
-  2939d4ee-23d4-404e-9b37-a7ba3a140d22: {ver: 1, file: ope-gp-1.snapshot, comments: '',
-    author: anonymous, created: 1685469844022, flowName: ope-gp-1, flowDesc: ''}
+  2939d4ee-23d4-404e-9b37-a7ba3a140d22: {ver: 2, file: ope-gp-1.snapshot, comments: cambios
+      en el bucket de OPE, author: anonymous, created: 1685469915809, flowName: ope-gp-1,
+    flowDesc: ''}
 layoutVer: 1
 bucketId: a4718059-1911-4956-90c7-e379b76f48cc
